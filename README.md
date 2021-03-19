@@ -10,12 +10,14 @@ All you have to do is:
 You will see as many Gcode files as drill bits
 
 In the repository files you will find "drills.xln". This file is a short example of a Excellon file with 4 drill bits. Following the previous example
-we genrate the 4 Gcode files that you cand find in the repository.
+we generate the 4 Gcode files that you can find in the repository.
 Then, you can introduce, one by one, this Gcode.txt in your CNC machine and see the magic. In my case I had a SRM20 GNC machine, and worked perfectly.
 
 A PCB is not complete without the traces, so I suggest you to use this web I find where you can create traces files so your CNC do all for you
 #http://fabmodules.org/
+
 Is a very simple page where you can introduce a black and white image of your PCB, choose your CNC machine, and it will generate the traces files
 for you to introduce in your CNC. Afther this, you will have prototyped your PCB in an easy way. 
+
 Please, don't doubt to ask if you have some questions
 
