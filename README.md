@@ -19,5 +19,7 @@ A PCB is not complete without the traces, so I suggest you to use this web I fin
 Is a very simple page where you can introduce a black and white image of your PCB, choose your CNC machine, and it will generate the traces files
 for you to introduce in your CNC. Afther this, you will have prototyped your PCB in an easy way. 
 
+In the file section you will find 4 images. PCB_inverted_pendulum correspond to a PCB I designed for a inverted pendulum project. It is very poor welded(it was my first big project). The others correspond to the same project. It was a shield for a 4 rele board and a ESP8266. This 2 boards were drilled by this script in a SRM-20 Roland Machine.
+
 Please, don't doubt to ask if you have some questions
 
